@@ -9,10 +9,12 @@ export const InputContainer = styled.div`
     display:flex;
     align-items: center;
     margin-bottom: 20px;
+    
 `
 
 export const IconContainer = styled.div`
     margin-right: 10px;
+    color:#8647AD;
 `
 
 export const InputText = styled.input`
